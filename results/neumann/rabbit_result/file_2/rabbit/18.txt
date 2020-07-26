@@ -1,0 +1,59 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Rabbit:   nb = 6000000000
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-2.local, Linux
+
+Generator providing data from binary file.
+
+
+sstring_AutoCor test:
+-----------------------------------------------
+   N =  7,  n = 857142817,  r =  0,   s = 32,   d = 1
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.26
+p-value of test                       :    0.34
+
+Kolmogorov-Smirnov- statistic = D-    :    0.18
+p-value of test                       :    0.56
+
+Anderson-Darling statistic = A2       :    0.63
+p-value of test                       :    0.62
+
+Tests on the sum of all N observations
+Standardized normal statistic         :   -0.28
+p-value of test                       :    0.61
+
+Sample variance                       :    0.38
+p-value of test                       :    0.89
+
+-----------------------------------------------
+CPU time used                    :  00:00:15.26
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     749999992
+          Bytes read from file:         754974720
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Rabbit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of bits:   6000000000
+ Number of statistics:  1
+ Total CPU time:   00:00:15.26
+
+ All tests were passed

@@ -1,0 +1,56 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-1.local, Linux
+
+Generator providing data from binary file.
+
+
+sstring_HammingWeight2 test:
+-----------------------------------------------
+   N = 30,  n = 100000000,  r = 20,   s = 10,   L = 1000000
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.12
+p-value of test                       :    0.36
+
+Kolmogorov-Smirnov- statistic = D-    :   0.079
+p-value of test                       :    0.65
+
+Anderson-Darling statistic = A2       :    0.52
+p-value of test                       :    0.72
+
+Test on the sum of all N observations
+Number of degrees of freedom          : 3000
+Chi-square statistic                  : 2975.79
+p-value of test                       :    0.62
+
+-----------------------------------------------
+CPU time used                    :  00:00:07.24
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     1200000000
+          Bytes read from file:         1205862400
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  1
+ Total CPU time:   00:00:07.24
+
+ All tests were passed

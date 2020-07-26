@@ -1,0 +1,58 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-0.local, Linux
+
+Generator providing data from binary file.
+
+
+scomp_LempelZiv test:
+-----------------------------------------------
+   N = 10,  n = 33554432,  r =  0,   s =   30,   k =   25
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.34
+p-value of test                       :    0.08
+
+Kolmogorov-Smirnov- statistic = D-    :   0.068
+p-value of test                       :    0.88
+
+Anderson-Darling statistic = A2       :    1.25
+p-value of test                       :    0.25
+
+Tests on the sum of all N observations
+Standardized normal statistic         :   -1.28
+p-value of test                       :    0.90
+
+Sample variance                       :    0.54
+p-value of test                       :    0.85
+
+-----------------------------------------------
+CPU time used                    :  00:00:16.16
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     44739280
+          Bytes read from file:         52428800
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  1
+ Total CPU time:   00:00:16.16
+
+ All tests were passed

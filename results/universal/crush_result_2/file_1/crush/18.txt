@@ -1,0 +1,73 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-1.local, Linux
+
+Generator providing data from binary file.
+
+
+snpair_ClosePairs test:
+-----------------------------------------------
+   N = 10,  n = 2000000,  r =  0,  t = 2,  p = 0,  m = 30,  Torus =  TRUE
+
+
+---------------------------------------
+Test based on the 2 nearest points (NP):
+
+Stat. AD on the N values (NP)         :    0.17
+p-value of test                       :    0.9969    *****
+
+
+A2 test based on the spacings between the
+   successive jump times of process Y_n(t):
+
+A2 test on the values of A2 (m-NP)    :    0.99
+p-value of test                       :    0.36
+
+Test on the Nm values of W_{n,i}(mNP1):    0.88
+p-value of test                       :    0.42
+
+Test on the jump times of Y
+   (superposition of Yn):
+
+Expected number of jumps of Y = mN    :     300
+Number of jumps of Y                  :     286
+p-value of test                       :    0.78
+
+Stat. AD (mNP2)                       :    0.38
+p-value of test                       :    0.87
+
+-----------------------------------------------
+CPU time used                    :  00:00:13.73
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     160000000
+          Bytes read from file:         167772160
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  5
+ Total CPU time:   00:00:14.02
+ The following tests gave p-values outside [0.01, 0.99]:
+ (eps  means a value < 1.0e-300):
+ (eps1 means a value < 1.0e-15):
+
+       Test                          p-value
+ ----------------------------------------------
+ 18  ClosePairs NP, t = 2            0.9969 
+ ----------------------------------------------
+ All other tests were passed

@@ -1,0 +1,74 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-0.local, Linux
+
+Generator providing data from binary file.
+
+
+sknuth_MaxOft test:
+-----------------------------------------------
+   N = 10,  n = 10000000,  r =  0,   d = 100000,   t =  5
+
+      Number of categories = 100000
+      Expected number per category  = 100.00
+
+
+-----------------------------------------------
+Test results for chi2 with 99999 degrees of freedom:
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.12
+p-value of test                       :    0.70
+
+Kolmogorov-Smirnov- statistic = D-    :   0.076
+p-value of test                       :    0.85
+
+Anderson-Darling statistic = A2       :    0.13
+p-value of test                       :    0.9994    *****
+
+Test on the sum of all N observations
+Number of degrees of freedom          : 999990
+Chi-square statistic                  : 1.00e+6
+p-value of test                       :    0.51
+
+
+-----------------------------------------------
+Test results for Anderson-Darling:
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.35
+p-value of test                       :    0.07
+
+Kolmogorov-Smirnov- statistic = D-    :   0.075
+p-value of test                       :    0.86
+
+Anderson-Darling statistic = A2       :    2.18
+p-value of test                       :    0.07
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:33.52
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     2000000000
+          Bytes read from file:         2002780160
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  2
+ Total CPU time:   00:00:33.52
+
+ All tests were passed

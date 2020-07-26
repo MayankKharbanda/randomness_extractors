@@ -1,0 +1,78 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 6000000000
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-0.local, Linux
+
+Generator providing data from binary file.
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  7,  n = 857142848,  r =  0,   s = 32,   L =   16,
+       Sparse =  FALSE
+
+       Number of bits = n = 857142848
+       Number of cells = 2^L =              65536
+       Expected number per cell =   13078.962
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  1.9114085e-05,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.15
+p-value of test                       :    0.66
+
+Kolmogorov-Smirnov- statistic = D-    :    0.12
+p-value of test                       :    0.75
+
+Anderson-Darling statistic = A2       :    0.18
+p-value of test                       :    0.9949    *****
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :   0.035
+p-value of test                       :    0.49
+
+Standardized empirical correlation    :    0.47
+p-value of test                       :    0.32
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:34.06
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     749999992
+          Bytes read from file:         754974720
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of bits:   6000000000
+ Number of statistics:  1
+ Total CPU time:   00:00:34.06
+ The following tests gave p-values outside [0.01, 0.99]:
+ (eps  means a value < 1.0e-300):
+ (eps1 means a value < 1.0e-15):
+
+       Test                          p-value
+ ----------------------------------------------
+  4  MultinomialBitsOver, L = 16     0.9949 
+ ----------------------------------------------

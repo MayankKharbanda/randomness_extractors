@@ -1,0 +1,51 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-0.local, Linux
+
+Generator providing data from binary file.
+
+
+sspectral_Fourier3 test:
+-----------------------------------------------
+   N = 50000,  n = 16384,  r =  0,   s =   30,   k =   14
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :   0.016
+p-value of test                       :    0.11
+
+Kolmogorov-Smirnov- statistic = D-    :   0.011
+p-value of test                       :    0.35
+
+Anderson-Darling statistic = A2       :    1.00
+p-value of test                       :    0.36
+
+-----------------------------------------------
+CPU time used                    :  00:00:23.21
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     109400000
+          Bytes read from file:         115343360
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  1
+ Total CPU time:   00:00:23.21
+
+ All tests were passed

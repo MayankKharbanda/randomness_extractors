@@ -1,0 +1,58 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-0.local, Linux
+
+Generator providing data from binary file.
+
+
+sstring_LongestHeadRun test:
+-----------------------------------------------
+   N =  1,  n = 1000,  r =  0,   s = 30,   L = 10000020
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    8
+Chi-square statistic                  :   20.31
+p-value of test                       :  9.2e-3    *****
+
+-----------------------------------------------
+Global longest run of 1               :   29.00
+p-value of test                       :    0.9905    *****
+
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:56.45
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     1333336000
+          Bytes read from file:         1342177280
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  2
+ Total CPU time:   00:00:56.45
+ The following tests gave p-values outside [0.01, 0.99]:
+ (eps  means a value < 1.0e-300):
+ (eps1 means a value < 1.0e-15):
+
+       Test                          p-value
+ ----------------------------------------------
+ 76  LongestHeadRun, r = 0           9.2e-3
+ 76  LongestHeadRun, r = 0           0.9905 
+ ----------------------------------------------

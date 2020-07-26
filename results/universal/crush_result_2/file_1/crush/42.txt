@@ -1,0 +1,74 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-1.local, Linux
+
+Generator providing data from binary file.
+
+
+sknuth_MaxOft test:
+-----------------------------------------------
+   N =  5,  n = 10000000,  r =  0,   d = 100000,   t = 10
+
+      Number of categories = 100000
+      Expected number per category  = 100.00
+
+
+-----------------------------------------------
+Test results for chi2 with 99999 degrees of freedom:
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.33
+p-value of test                       :    0.27
+
+Kolmogorov-Smirnov- statistic = D-    :    0.25
+p-value of test                       :    0.46
+
+Anderson-Darling statistic = A2       :    1.38
+p-value of test                       :    0.21
+
+Test on the sum of all N observations
+Number of degrees of freedom          : 499995
+Chi-square statistic                  : 4.99e+5
+p-value of test                       :    0.86
+
+
+-----------------------------------------------
+Test results for Anderson-Darling:
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.60
+p-value of test                       :    0.01
+
+Kolmogorov-Smirnov- statistic = D-    :   0.037
+p-value of test                       :    0.96
+
+Anderson-Darling statistic = A2       :    3.17
+p-value of test                       :    0.02
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:19.58
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     2000000000
+          Bytes read from file:         2002780160
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  2
+ Total CPU time:   00:00:19.58
+
+ All tests were passed

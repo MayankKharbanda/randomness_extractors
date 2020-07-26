@@ -1,0 +1,17 @@
+Total_wait_time (in s) :175.0999825000763
+          SUITE                          NAME ID      TIME           SIZE   N_TUPLE
+           nist                     Frequency  1     109.3     6000000000
+           nist                BlockFrequency  2    106.18     6000000000
+           nist                CumulativeSums  3    156.83     6000000000
+           nist                          Runs  4    178.78     6000000000
+           nist                    LongestRun  5    139.64     6000000000
+           nist                          Rank  6    576.24     6000000000
+           nist                           FFT  7  14445.36     6000000000
+           nist        NonOverlappingTemplate  8   5245.04     6000000000
+           nist           OverlappingTemplate  9    494.38     6000000000
+           nist                     Universal 10    442.57     6000000000
+           nist            ApproximateEntropy 11    1062.3     6000000000
+           nist              RandomExcursions 12    155.12     6000000000
+           nist       RandomExcursionsVariant 13     347.7     6000000000
+           nist                        Serial 14   1863.05     6000000000
+           nist              LinearComplexity 15   7604.87     6000000000

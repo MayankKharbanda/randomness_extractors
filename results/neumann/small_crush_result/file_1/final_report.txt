@@ -1,0 +1,12 @@
+Total_wait_time (in s) :2.592895030975342
+          SUITE                          NAME ID      TIME           SIZE   N_TUPLE
+     smallcrush      smarsa__BirthdaySpacings  1      2.78       43000000
+     smallcrush             sknuth__Collision  2      2.48       43000000
+     smallcrush                   sknuth__Gap  3      1.43      220000000
+     smallcrush             sknuth__SimpPoker  4      1.31      120000000
+     smallcrush       sknuth__CouponCollector  5       1.0      120000000
+     smallcrush                sknuth__MaxOft  6      1.22       54000000
+     smallcrush         svaria__WeightDistrib  7       1.2      220000000
+     smallcrush            smarsa__MatrixRank  8      1.14       33000000
+     smallcrush         sstring__HammingIndep  9      1.22      140000000
+     smallcrush            swalk__RandomWalk1 10      1.36       22000000

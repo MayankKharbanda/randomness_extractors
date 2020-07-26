@@ -1,0 +1,28 @@
+Total_wait_time (in s) :50.14206051826477
+          SUITE                          NAME ID      TIME           SIZE   N_TUPLE
+         rabbit  smultin__MultinomialBitsOver  1    149.85     6000000000
+         rabbit    snpair__ClosePairsBitMatch  2     31.83     6000000000
+         rabbit    snpair__ClosePairsBitMatch  3     23.44     6000000000
+         rabbit    svaria__AppearanceSpacings  4      9.19     6000000000
+         rabbit             scomp__LinearComp  5     28.36     6000000000
+         rabbit              scomp__LempelZiv  6     12.79     6000000000
+         rabbit           sspectral__Fourier1  7      0.12     6000000000
+         rabbit           sspectral__Fourier3  8    131.59     6000000000
+         rabbit       sstring__LongestHeadRun  9     33.76     6000000000
+         rabbit     sstring__PeriodsInStrings 10     10.53     6000000000
+         rabbit        sstring__HammingWeight 11      5.96     6000000000
+         rabbit          sstring__HammingCorr 12      5.85     6000000000
+         rabbit          sstring__HammingCorr 13      5.71     6000000000
+         rabbit          sstring__HammingCorr 14      5.97     6000000000
+         rabbit         sstring__HammingIndep 15      8.01     6000000000
+         rabbit         sstring__HammingIndep 16       6.1     6000000000
+         rabbit         sstring__HammingIndep 17      6.16     6000000000
+         rabbit              sstring__AutoCor 18     13.07     6000000000
+         rabbit              sstring__AutoCor 19      13.0     6000000000
+         rabbit                  sstring__Run 20     26.38     6000000000
+         rabbit            smarsa__MatrixRank 21     39.47     6000000000
+         rabbit            smarsa__MatrixRank 22     53.38     6000000000
+         rabbit            smarsa__MatrixRank 23     91.09     6000000000
+         rabbit            swalk__RandomWalk1 24     34.45     6000000000
+         rabbit            swalk__RandomWalk1 25     28.93     6000000000
+         rabbit            swalk__RandomWalk1 26     25.75     6000000000
