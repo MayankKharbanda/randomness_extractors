@@ -1,0 +1,11 @@
+Total_wait_time (in s) :2.09808349609375e-05
+          SUITE                          NAME ID      TIME           SIZE   N_TUPLE
+       alphabit  smultin__MultinomialBitsOver  1     11.91     6000000000
+       alphabit  smultin__MultinomialBitsOver  2     11.45     6000000000
+       alphabit  smultin__MultinomialBitsOver  3     11.87     6000000000
+       alphabit  smultin__MultinomialBitsOver  4     34.19     6000000000
+       alphabit         sstring__HammingIndep  5      7.85     6000000000
+       alphabit         sstring__HammingIndep  6      6.86     6000000000
+       alphabit          sstring__HammingCorr  7      6.49     6000000000
+       alphabit            swalk__RandomWalk1  8     46.04     6000000000
+       alphabit            swalk__RandomWalk1  9     39.23     6000000000

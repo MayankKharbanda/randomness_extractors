@@ -1,0 +1,82 @@
+Total_wait_time (in s) :215.59770107269287
+          SUITE                          NAME ID      TIME           SIZE   N_TUPLE
+      dieharder        Diehard_Birthdays_Test  0       1.7       55400000
+      dieharder           Diehard_OPERM5_Test  1      7.85      480000000
+      dieharderDiehard_32x32_Binary_Rank_Test  2     24.72      560000000
+      dieharder  Diehard_6x8_Binary_Rank_Test  3      4.66      320000000
+      dieharder        Diehard_Bitstream_Test  4      2.07      150994944
+      dieharder                  Diehard_OPSO  5      5.92      880803840
+      dieharder             Diehard_OQSO_Test  6      4.57      603979776
+      dieharder              Diehard_DNA_Test  7     38.93      310378496
+      dieharderDiehard_Count_the_1s_stream_Test  8      0.72       66560000
+      dieharderDiehard_Count_the_1s_Test_byte  9      4.18      614400000
+      dieharder      Diehard_Parking_Lot_Test 10      2.66       52800000
+      dieharderDiehard_Minimum_Distance_2d_Circle_Test 11      0.94       48000000
+      dieharderDiehard_3d_Sphere_Minimum_Distance_Test 12      6.71       46400000
+      dieharder          Diehard_Squeeze_Test 13      7.26     1000000000
+      dieharder             Diehard_Sums_Test 14      0.47       40080000
+      dieharder             Diehard_Runs_Test 15      0.64      120000000
+      dieharder            Diehard_Craps_Test 16      7.11      640000000
+      dieharder  Marsaglia_and_Tsang_GCD_Test 17    231.73    12000000000
+      dieharder              STS_Monobit_Test100       0.8      120000000
+      dieharder                 STS_Runs_Test101      12.5      120000000
+      dieharder   STS_Serial_Test_Generalized102      17.3      120000000
+      dieharder     RGB_Bit_Distribution_Test200      3.97      160000000         1
+      dieharder     RGB_Bit_Distribution_Test200      5.04      240000000         2
+      dieharder     RGB_Bit_Distribution_Test200      5.14      320000000         3
+      dieharder     RGB_Bit_Distribution_Test200      5.84      400000000         4
+      dieharder     RGB_Bit_Distribution_Test200      8.01      480000000         5
+      dieharder     RGB_Bit_Distribution_Test200     10.65      560000000         6
+      dieharder     RGB_Bit_Distribution_Test200     14.82      640000000         7
+      dieharder     RGB_Bit_Distribution_Test200     18.57      720000000         8
+      dieharder     RGB_Bit_Distribution_Test200     25.42      800000000         9
+      dieharder     RGB_Bit_Distribution_Test200     35.44      880000000        10
+      dieharder     RGB_Bit_Distribution_Test200     51.63      960000000        11
+      dieharder     RGB_Bit_Distribution_Test200     86.23     1040000000        12
+      dieharderRGB_Generalized_Minimum_Distance_Test201      8.98      160000000         2
+      dieharderRGB_Generalized_Minimum_Distance_Test201     11.73      160000000         3
+      dieharderRGB_Generalized_Minimum_Distance_Test201     21.11      240000000         4
+      dieharderRGB_Generalized_Minimum_Distance_Test201     41.05      280000000         5
+      dieharder         RGB_Permutations_Test202      1.11      160000000         2
+      dieharder         RGB_Permutations_Test202      1.77      200000000         3
+      dieharder         RGB_Permutations_Test202      3.21      240000000         4
+      dieharder         RGB_Permutations_Test202      8.48      280000000         5
+      dieharder           RGB_Lagged_Sum_Test203      3.01      800000000         0
+      dieharder           RGB_Lagged_Sum_Test203      5.81     1200000000         1
+      dieharder           RGB_Lagged_Sum_Test203      8.21     1600000000         2
+      dieharder           RGB_Lagged_Sum_Test203     10.87     2000000000         3
+      dieharder           RGB_Lagged_Sum_Test203      13.6     2400000000         4
+      dieharder           RGB_Lagged_Sum_Test203     17.56     2800000000         5
+      dieharder           RGB_Lagged_Sum_Test203      20.1     3200000000         6
+      dieharder           RGB_Lagged_Sum_Test203      22.7     3600000000         7
+      dieharder           RGB_Lagged_Sum_Test203      25.4     4000000000         8
+      dieharder           RGB_Lagged_Sum_Test203     28.14     4400000000         9
+      dieharder           RGB_Lagged_Sum_Test203     30.92     4800000000        10
+      dieharder           RGB_Lagged_Sum_Test203     33.45     5200000000        11
+      dieharder           RGB_Lagged_Sum_Test203     36.01     5600000000        12
+      dieharder           RGB_Lagged_Sum_Test203     38.78     6000000000        13
+      dieharder           RGB_Lagged_Sum_Test203     41.48     6400000000        14
+      dieharder           RGB_Lagged_Sum_Test203     44.16     6800000000        15
+      dieharder           RGB_Lagged_Sum_Test203     47.13     7200000000        16
+      dieharder           RGB_Lagged_Sum_Test203     49.53     7600000000        17
+      dieharder           RGB_Lagged_Sum_Test203      52.2     8000000000        18
+      dieharder           RGB_Lagged_Sum_Test203     54.88     8400000000        19
+      dieharder           RGB_Lagged_Sum_Test203     57.59     8800000000        20
+      dieharder           RGB_Lagged_Sum_Test203     60.32     9200000000        21
+      dieharder           RGB_Lagged_Sum_Test203     63.06     9600000000        22
+      dieharder           RGB_Lagged_Sum_Test203     66.02    10000000000        23
+      dieharder           RGB_Lagged_Sum_Test203     68.85    10400000000        24
+      dieharder           RGB_Lagged_Sum_Test203     70.97    10800000000        25
+      dieharder           RGB_Lagged_Sum_Test203     73.88    11200000000        26
+      dieharder           RGB_Lagged_Sum_Test203     76.38    11600000000        27
+      dieharder           RGB_Lagged_Sum_Test203     79.86    12000000000        28
+      dieharder           RGB_Lagged_Sum_Test203     82.33    12400000000        29
+      dieharder           RGB_Lagged_Sum_Test203     84.41    12800000000        30
+      dieharder           RGB_Lagged_Sum_Test203     87.17    13200000000        31
+      dieharder           RGB_Lagged_Sum_Test203      89.9    13600000000        32
+      dieharder   RGB_Kolmogorov-Smirnov_Test204      1.88      120000000
+      dieharder             Byte_Distribution205      4.65      819200000
+      dieharder                       DAB_DCT206      1.32       91400000
+      dieharder            DAB_Fill_Tree_Test207      5.41      540000000
+      dieharder          DAB_Fill_Tree_2_Test208      5.42      160000000
+      dieharder            DAB_Monobit_2_Test209      5.93      520000000

@@ -1,0 +1,66 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-0.local, Linux
+
+Generator providing data from binary file.
+
+
+snpair_ClosePairs test:
+-----------------------------------------------
+   N = 10,  n = 2000000,  r =  0,  t = 2,  p = 0,  m = 30,  Torus =  TRUE
+
+
+---------------------------------------
+Test based on the 2 nearest points (NP):
+
+Stat. AD on the N values (NP)         :    0.32
+p-value of test                       :    0.92
+
+
+A2 test based on the spacings between the
+   successive jump times of process Y_n(t):
+
+A2 test on the values of A2 (m-NP)    :    0.90
+p-value of test                       :    0.41
+
+Test on the Nm values of W_{n,i}(mNP1):    0.30
+p-value of test                       :    0.94
+
+Test on the jump times of Y
+   (superposition of Yn):
+
+Expected number of jumps of Y = mN    :     300
+Number of jumps of Y                  :     297
+p-value of test                       :    0.55
+
+Stat. AD (mNP2)                       :    0.76
+p-value of test                       :    0.51
+
+-----------------------------------------------
+CPU time used                    :  00:00:13.03
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     160000000
+          Bytes read from file:         167772160
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  5
+ Total CPU time:   00:00:13.32
+
+ All tests were passed

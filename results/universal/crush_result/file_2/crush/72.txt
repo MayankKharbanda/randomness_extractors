@@ -1,0 +1,53 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-2.local, Linux
+
+Generator providing data from binary file.
+
+
+scomp_LinearComp test:
+-----------------------------------------------
+   N =  1,  n = 120000,  r = 29,    s = 1
+
+
+
+-----------------------------------------------
+Number of degrees of freedom          :   10
+Chi2 statistic for size of jumps      :    9.13
+p-value of test                       :    0.52
+
+
+-----------------------------------------------
+Normal statistic for number of jumps  :   -0.62
+p-value of test                       :    0.73
+
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:14.67
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     480000
+          Bytes read from file:         10485760
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  2
+ Total CPU time:   00:00:14.67
+
+ All tests were passed

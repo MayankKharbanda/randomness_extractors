@@ -1,0 +1,54 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-0.local, Linux
+
+Generator providing data from binary file.
+
+
+sknuth_MaxOft test:
+-----------------------------------------------
+   N =  1,  n = 10000000,  r =  0,   d = 100000,   t = 20
+
+      Number of categories = 100000
+      Expected number per category  = 100.00
+
+
+-----------------------------------------------
+Number of degrees of freedom          : 99999
+Chi-square statistic                  : 1.01e+5
+p-value of test                       :    0.12
+
+
+-----------------------------------------------
+Anderson-Darling statistic            :    0.33
+p-value of test                       :    0.67
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:04.82
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     800000000
+          Bytes read from file:         807403520
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  2
+ Total CPU time:   00:00:04.82
+
+ All tests were passed

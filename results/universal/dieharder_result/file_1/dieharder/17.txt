@@ -1,0 +1,10 @@
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|../extractor/universal/file_0.bin|  8.10e+06  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+ marsaglia_tsang_gcd|   0|  10000000|     100|0.83113875|  PASSED  
+ marsaglia_tsang_gcd|   0|  10000000|     100|0.12015793|  PASSED  

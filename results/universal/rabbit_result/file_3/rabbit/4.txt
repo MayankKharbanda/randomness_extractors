@@ -1,0 +1,51 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Rabbit:   nb = 6000000000
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-2.local, Linux
+
+Generator providing data from binary file.
+
+
+svaria_AppearanceSpacings test:
+-----------------------------------------------
+   N =  1,   Q = 187500000,   K = 187500000,   r = 0,   s = 30,   L = 15
+
+   Sequences of n = (K + Q)L =   5625000000 bits
+   Q = 187500000 initialization blocks
+   K = 187500000 blocks for the test
+   the blocks have L = 15 bits
+
+
+
+-----------------------------------------------
+Normal statistic                      :    0.26
+p-value of test                       :    0.40
+
+-----------------------------------------------
+CPU time used                    :  00:00:09.16
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     750000000
+          Bytes read from file:         754974720
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Rabbit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of bits:   6000000000
+ Number of statistics:  1
+ Total CPU time:   00:00:09.16
+
+ All tests were passed

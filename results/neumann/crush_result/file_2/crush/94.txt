@@ -1,0 +1,58 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-0.local, Linux
+
+Generator providing data from binary file.
+
+
+sstring_AutoCor test:
+-----------------------------------------------
+   N =  5,  n = 1000000001,  r = 20,   s = 10,   d = 1
+
+
+-----------------------------------------------
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.33
+p-value of test                       :    0.27
+
+Kolmogorov-Smirnov- statistic = D-    :   0.094
+p-value of test                       :    0.87
+
+Anderson-Darling statistic = A2       :    0.78
+p-value of test                       :    0.49
+
+Tests on the sum of all N observations
+Standardized normal statistic         :   -0.90
+p-value of test                       :    0.82
+
+Sample variance                       :    0.65
+p-value of test                       :    0.63
+
+-----------------------------------------------
+CPU time used                    :  00:00:32.21
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     2000000020
+          Bytes read from file:         2002780160
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  1
+ Total CPU time:   00:00:32.21
+
+ All tests were passed

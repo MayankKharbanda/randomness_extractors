@@ -1,0 +1,81 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-2.local, Linux
+
+Generator providing data from binary file.
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 5000000,  r =  0,   s = 30,   L0 = 1000,   L1 = 1000
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :  140
+ChiSquare statistic                   :  131.14
+p-value of test                       :    0.69
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :  141
+ChiSquare statistic                   :  135.81
+p-value of test                       :    0.61
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :  500
+ChiSquare statistic                   :  480.31
+p-value of test                       :    0.73
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :  132
+ChiSquare statistic                   :  154.85
+p-value of test                       :    0.08
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   72
+ChiSquare statistic                   :   84.89
+p-value of test                       :    0.14
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:33.20
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     680000000
+          Bytes read from file:         681574400
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  5
+ Total CPU time:   00:00:33.20
+
+ All tests were passed

@@ -1,0 +1,45 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-0.local, Linux
+
+Generator providing data from binary file.
+
+
+svaria_WeightDistrib test:
+-----------------------------------------------
+   N =  1,  n = 2000000,  r =  8,  k = 256,  Alpha =      0,  Beta =  0.125
+
+
+-----------------------------------------------
+Number of degrees of freedom          :   46
+Chi-square statistic                  :   54.78
+p-value of test                       :    0.18
+
+-----------------------------------------------
+CPU time used                    :  00:00:05.90
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     2048000000
+          Bytes read from file:         2055208960
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  1
+ Total CPU time:   00:00:05.90
+
+ All tests were passed

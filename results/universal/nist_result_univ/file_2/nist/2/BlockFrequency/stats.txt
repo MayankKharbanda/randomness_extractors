@@ -1,0 +1,1100 @@
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133633.250000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.203240
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133546.375000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.253949
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 134021.562500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.057042
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132755.343750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.808086
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132947.000000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.691070
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133194.625000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.507504
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133400.625000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.351930
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133026.218750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.635042
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133394.593750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.356272
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132579.093750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.887484
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132816.687500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.773904
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132964.593750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.678947
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133207.843750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.497287
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132636.312500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.864784
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133775.062500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.134759
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132787.781250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.790421
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133093.937500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.584704
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132581.468750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.886600
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132972.968750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.673108
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133539.031250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.258521
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132725.906250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.823304
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132773.875000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.798108
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133707.000000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.165361
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132232.968750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.970389
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133719.125000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.159603
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132948.531250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.690023
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132346.750000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.952052
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133653.781250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.192206
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133155.875000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.537404
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132826.281250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.768265
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133607.593750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.217548
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133427.843750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.332582
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 134187.343750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.028726
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133030.031250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.632260
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 134264.437500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.020258
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 134913.750000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+FAILURE		p_value = 0.000487
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132667.625000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.851117
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132787.875000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.790369
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133047.125000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.619703
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 134011.281250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.059349
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133034.250000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.629173
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 134014.812500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.058549
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133568.500000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.240435
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133768.281250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.137621
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133161.125000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.533361
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132356.750000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.950080
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 134305.687500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.016671
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133598.875000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.222540
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133398.375000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.353548
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133446.187500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.319788
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133149.375000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.542404
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132571.000000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.890462
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132965.625000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.678231
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133217.593750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.489752
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132893.562500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.726601
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132824.125000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.769539
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133158.031250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.535744
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133661.968750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.187910
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133740.906250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.149593
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133145.437500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.545430
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133492.250000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.288621
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133373.281250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.371763
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133221.562500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.486686
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133193.968750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.508011
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133265.406250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.452912
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133332.531250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.401953
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133060.718750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.609626
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132832.656250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.764474
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133501.562500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.282499
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133199.500000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.503736
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 134641.250000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+FAILURE		p_value = 0.002769
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133231.062500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.479351
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132828.125000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.767172
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133281.593750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.440517
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133849.687500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.105958
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132091.500000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.984694
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133671.093750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.183194
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133974.593750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.068183
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133399.187500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.352963
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133539.812500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.258033
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133940.500000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.077274
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133918.343750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.083658
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133823.937500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.115345
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132493.437500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.916171
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133781.593750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.132042
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133486.437500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.292474
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133534.250000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.261521
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133904.156250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.087949
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133526.187500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.266620
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133141.750000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.548261
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133517.343750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.272270
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133691.562500
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.172885
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133045.531250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.620879
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132021.125000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.989253
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133675.031250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.181181
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132998.968750
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.654716
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133395.656250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.355506
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 132503.281250
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.913185
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133268.375000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.450635
+
+			BLOCK FREQUENCY TEST
+		---------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		---------------------------------------------
+		(a) Chi^2           = 133326.375000
+		(b) # of substrings = 133205
+		(c) block length    = 128
+		(d) Note: 87 bits were discarded.
+		---------------------------------------------
+SUCCESS		p_value = 0.406571
+

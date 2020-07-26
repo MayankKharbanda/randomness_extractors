@@ -1,0 +1,50 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-2.local, Linux
+
+Generator providing data from binary file.
+
+
+smarsa_BirthdaySpacings test:
+-----------------------------------------------
+   N =  5,  n = 20000000,  r =  0,    d = 2097152,    t = 3,    p = 1
+
+
+      Number of cells = d^t = 9223372036854775808
+      Lambda = Poisson mean =     216.8404
+
+
+----------------------------------------------------
+Total expected number = N*Lambda      :    1084.20
+Total observed number                 :    1059
+p-value of test                       :    0.77
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:36.00
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     1200000000
+          Bytes read from file:         1205862400
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  1
+ Total CPU time:   00:00:36.06
+
+ All tests were passed

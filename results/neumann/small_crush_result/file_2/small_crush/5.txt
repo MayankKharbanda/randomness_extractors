@@ -1,0 +1,45 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting SmallCrush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-1.local, Linux
+
+Generator providing data from binary file.
+
+
+sknuth_CouponCollector test:
+-----------------------------------------------
+   N =  1,  n = 500000,  r = 26,   d =   16
+
+
+-----------------------------------------------
+Number of degrees of freedom          :   44
+Chi-square statistic                  :   39.52
+p-value of test                       :    0.66
+
+-----------------------------------------------
+CPU time used                    :  00:00:00.48
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     98775888
+          Bytes read from file:         104857600
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of SmallCrush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  1
+ Total CPU time:   00:00:00.48
+
+ All tests were passed

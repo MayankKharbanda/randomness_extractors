@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+RESULTS FOR THE UNIFORMITY OF P-VALUES AND THE PROPORTION OF PASSING SEQUENCES
+------------------------------------------------------------------------------
+   generator is <../extractor/neumann/final_0.bin>
+------------------------------------------------------------------------------
+ C1  C2  C3  C4  C5  C6  C7  C8  C9 C10  P-VALUE  PROPORTION  STATISTICAL TEST
+------------------------------------------------------------------------------
+ 10  10   3   7  14   7   7   6  15  10  0.064317     88/89      RandomExcursions
+ 12   7   8  10   8   7  12   6  10   9  0.752361     88/89      RandomExcursions
+  8  10   9   7  11   7   7  10   6  14  0.572333     87/89      RandomExcursions
+  9   8   5  12  11   6   7  12   7  12  0.425817     88/89      RandomExcursions
+ 10   7   9  12   8   7   8   8  10  10  0.919445     89/89      RandomExcursions
+  8  12  12  10   7   9   8   8  10   5  0.701879     89/89      RandomExcursions
+  8   6  11  10   9  14   6   9   6  10  0.496841     89/89      RandomExcursions
+  7  12  14  14   4   5   6   8   8  11  0.069538     89/89      RandomExcursions
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The minimum pass rate for the random excursion (variant) test
+is approximately = 85 for a sample size = 89 binary sequences.
+
+For further guidelines construct a probability table using the MAPLE program
+provided in the addendum section of the documentation.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

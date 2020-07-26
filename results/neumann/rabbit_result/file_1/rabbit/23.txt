@@ -1,0 +1,46 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Rabbit:   nb = 6000000000
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-2.local, Linux
+
+Generator providing data from binary file.
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 5722,  r =  0,    s = 32,    L = 1024,    k = 1024
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    3
+Chi-square statistic                  :    3.22
+p-value of test                       :    0.36
+
+-----------------------------------------------
+CPU time used                    :  00:02:37.50
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     749993984
+          Bytes read from file:         754974720
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Rabbit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of bits:   6000000000
+ Number of statistics:  1
+ Total CPU time:   00:02:37.50
+
+ All tests were passed

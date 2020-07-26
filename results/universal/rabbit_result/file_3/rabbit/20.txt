@@ -1,0 +1,86 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Rabbit:   nb = 6000000000
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-2.local, Linux
+
+Generator providing data from binary file.
+
+
+sstring_Run test:
+-----------------------------------------------
+   N =  2,  n = 600000000,  r =  0,   s =   32
+
+
+-----------------------------------------------
+Test results for the number of runs:
+
+Kolmogorov-Smirnov+ statistic = D+    : 3.91e-4
+p-value of test                       :    0.9996    *****
+
+Kolmogorov-Smirnov- statistic = D-    :    1.00
+p-value of test                       :  5.7e-7    *****
+
+Anderson-Darling statistic = A2       :   12.71
+p-value of test                       :  8.3e-7    *****
+
+Test on the sum of all N observations
+Number of degrees of freedom          :  100
+Chi-square statistic                  :  178.43
+p-value of test                       :  2.4e-6    *****
+
+
+-----------------------------------------------
+Test results for the number of bits:
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.57
+p-value of test                       :    0.19
+
+Kolmogorov-Smirnov- statistic = D-    :    0.15
+p-value of test                       :    0.83
+
+Anderson-Darling statistic = A2       :    0.74
+p-value of test                       :    0.51
+
+Tests on the sum of all N observations
+Standardized normal statistic         :   -0.87
+p-value of test                       :    0.81
+
+Sample variance                       :    0.39
+p-value of test                       :    0.53
+
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:26.37
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     599989372
+          Bytes read from file:         608174080
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Rabbit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of bits:   6000000000
+ Number of statistics:  2
+ Total CPU time:   00:00:26.37
+ The following tests gave p-values outside [0.01, 0.99]:
+ (eps  means a value < 1.0e-300):
+ (eps1 means a value < 1.0e-15):
+
+       Test                          p-value
+ ----------------------------------------------
+ 20  Run of bits                     2.4e-6
+ ----------------------------------------------

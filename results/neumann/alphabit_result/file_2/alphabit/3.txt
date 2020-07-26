@@ -1,0 +1,72 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 6000000000
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-1.local, Linux
+
+Generator providing data from binary file.
+
+
+smultin_MultinomialBitsOver test:
+-----------------------------------------------
+   N =  7,  n = 857142848,  r =  0,   s = 32,   L =    8,
+       Sparse =  FALSE
+
+       Number of bits = n = 857142848
+       Number of cells = 2^L =                256
+       Expected number per cell =   3348214.2
+       Hashing =  FALSE
+
+   For Delta > -1, we use the ChiSquare approximation
+   Correction factor of the ChiSquare: 
+       Delta =     1,    Mu =  7.4083339e-08,    Sigma =          1
+
+-----------------------------------------------
+Test Results for Delta =   1.0000
+
+
+Kolmogorov-Smirnov+ statistic = D+    :    0.24
+p-value of test                       :    0.37
+
+Kolmogorov-Smirnov- statistic = D-    :    0.16
+p-value of test                       :    0.63
+
+Anderson-Darling statistic = A2       :    0.45
+p-value of test                       :    0.80
+
+For the sum of the N observations, we use
+      the Normal approximation:
+Standardized empirical mean           :  -0.011
+p-value of test                       :    0.50
+
+Standardized empirical correlation    :   -0.74
+p-value of test                       :    0.77
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:11.31
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     749999992
+          Bytes read from file:         754974720
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of bits:   6000000000
+ Number of statistics:  1
+ Total CPU time:   00:00:11.31
+
+ All tests were passed

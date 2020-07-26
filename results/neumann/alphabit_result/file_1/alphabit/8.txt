@@ -1,0 +1,82 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+          Starting Alphabit:   nb = 6000000000
+          Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-1.local, Linux
+
+Generator providing data from binary file.
+
+
+swalk_RandomWalk1 test:
+-----------------------------------------------
+   N =  1,  n = 93750000,  r =  0,   s = 32,   L0 =   64,   L1 =   64
+
+
+
+-----------------------------------------------
+Test on the values of the Statistic H
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   44.20
+p-value of test                       :    0.30
+
+
+-----------------------------------------------
+Test on the values of the Statistic M
+
+Number of degrees of freedom          :   40
+ChiSquare statistic                   :   37.49
+p-value of test                       :    0.58
+
+
+-----------------------------------------------
+Test on the values of the Statistic J
+
+Number of degrees of freedom          :   32
+ChiSquare statistic                   :   26.90
+p-value of test                       :    0.72
+
+
+-----------------------------------------------
+Test on the values of the Statistic R
+
+Number of degrees of freedom          :   29
+ChiSquare statistic                   :   38.13
+p-value of test                       :    0.12
+
+
+-----------------------------------------------
+Test on the values of the Statistic C
+
+Number of degrees of freedom          :   20
+ChiSquare statistic                   :   11.75
+p-value of test                       :    0.92
+
+
+-----------------------------------------------
+CPU time used                    :  00:00:45.47
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     750000000
+          Bytes read from file:         754974720
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Alphabit =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of bits:   6000000000
+ Number of statistics:  5
+ Total CPU time:   00:00:45.47
+
+ All tests were passed

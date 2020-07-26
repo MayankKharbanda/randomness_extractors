@@ -1,0 +1,45 @@
+[INFO]  Significance level is set to alpha = 1.000% (0.010)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                 Starting Crush
+                 Version: TestU01 1.2.3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***********************************************************
+HOST = compute-0-1.local, Linux
+
+Generator providing data from binary file.
+
+
+smarsa_MatrixRank test:
+-----------------------------------------------
+   N =  1,  n = 1000000,  r =  0,    s = 30,    L = 60,    k = 60
+
+
+-----------------------------------------------
+Number of degrees of freedom          :    4
+Chi-square statistic                  :    0.55
+p-value of test                       :    0.97
+
+-----------------------------------------------
+CPU time used                    :  00:00:26.46
+
+Generator state:
+========= State of the binary file stream generator =========
+          Bytes needed for testing:     480000000
+          Bytes read from file:         482344960
+          Total number of file rewinds: 0
+
+
+
+
+
+
+========= Summary results of Crush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        Generator providing data from binary file.
+ Number of statistics:  1
+ Total CPU time:   00:00:26.46
+
+ All tests were passed
