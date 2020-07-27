@@ -1,8 +1,14 @@
-file=f'../test_files/{fl}.bin'
-output_file=f'result_files/{fl}.bin'
+import argparse
 
+parser = argparse.ArgumentParser()
 
-with open(f'{file}','rb') as fr, open(f'{output_file}','wb') as fw:
+parser.add_argument("-i", "--input", dest = "input", help="input binary file", type=str, required=True)
+parser.add_argument("-o", "--output", dest = "output", help="output binary file", default = "output.bin", type=str)
+    
+args = parser.parse_args()
+    
+
+with open(f'{args.input}','rb') as fr, open(f'{args.output}','wb') as fw:
     read_data = fr.read(1)
     output_data=''
     while(read_data):

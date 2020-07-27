@@ -1,4 +1,5 @@
 import numpy as np
+import argparse
 
 
 BitsSetTable256 = [0] * 256
@@ -55,9 +56,6 @@ def matrix_gen(m,n):
     
     return result_matrix
     
-    
-file=f'../test_files/{fl}.bin'
-output_file=f'result_files/{fl}.bin'
 
 
 initialize()
@@ -65,7 +63,19 @@ m=1024
 n=768
 seed = matrix_gen(n,m)
 
-with open(f'{file}','rb') as fr, open(f'{output_file}','wb') as fw:
+
+
+parser = argparse.ArgumentParser()
+
+parser.add_argument("-i", "--input", dest = "input", help="input binary file", type=str, required=True)
+parser.add_argument("-o", "--output", dest = "output", help="output binary file", default = "output.bin", type=str)
+    
+args = parser.parse_args()
+
+
+
+
+with open(f'{args.input}','rb') as fr, open(f'{args.output}','wb') as fw:
     data = fr.read(128)
     while(data):
         result = ''
